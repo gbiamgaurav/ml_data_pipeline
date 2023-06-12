@@ -7,3 +7,4 @@ logs/*
 *.pyc
 Credential.md
 env/
+ml_data/*

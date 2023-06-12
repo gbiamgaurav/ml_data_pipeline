@@ -10,12 +10,12 @@ conda --version
 
 Step2: Create  a conda environment
 ```
-conda create -p venv python==3.8 -y
+conda create -p ml_data python==3.8 -y
 ```
 
 Step3:
 ```
-conda activate venv/
+conda activate ml_data/
 ```
 Step4:
 ```
